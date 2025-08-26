@@ -1,4 +1,5 @@
-# Welcome to Alveriano
+
+
 We design high-level strategy solutions for service businesses.  
 Our mission is simple: eliminate inefficiency, fix broken models, and build systems that scale.  
 
@@ -7,4 +8,4 @@ Our mission is simple: eliminate inefficiency, fix broken models, and build syst
 - [AI for Roofing Lead Generation](./_posts/2025-08-28-ai-for-roofing-leads.md)
 
 ---
-*Want us to audit your business? [Book a free strategy call](#).*
+*Want us to audit your business? Book a free call today!*
