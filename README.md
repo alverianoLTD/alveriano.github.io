@@ -16,7 +16,7 @@ The Alveriano blog is designed to:
 3. Demonstrate Alveriano’s expertise in designing strategy-based solutions for scaling.  
 
 ## Visit the Blog
-👉 https://alverianoLTD.github.io
+👉 [https://alverianoLTD.github.io](https://alverianoltd.github.io/alveriano.github.io/)
 
 ---
 *Want to learn how Alveriano can help your business scale? Book a free audit today.*
